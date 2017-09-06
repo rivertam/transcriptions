@@ -1,0 +1,10 @@
+[package]
+name = "transcriptions"
+version = "0.1.0"
+authors = ["Ben Berman <ben.m.berman@gmail.com>"]
+
+[dependencies]
+audrey = "0.1.0"
+cpal = "0.4.1"
+futures = "0.1.1"
+hound = "3.1.0"
